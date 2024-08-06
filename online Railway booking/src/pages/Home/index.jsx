@@ -43,7 +43,7 @@ export default function BookingForm() {
   };
 
   return (
-    <Box sx={{ padding: 2 }}>
+    <Box sx={{ padding: 4 }}>
       <Container maxWidth="sm">
         {success && (
           <Alert severity="success" sx={{ mb: 2 }}>

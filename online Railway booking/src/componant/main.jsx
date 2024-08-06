@@ -8,7 +8,7 @@ const LayoutHome = ({ children }) => {
       style={{
         display: "flex",
         flexDirection: "column",
-        minHeight: "100vh",
+        Height: "90vh",
       }}
     >
       <Header />

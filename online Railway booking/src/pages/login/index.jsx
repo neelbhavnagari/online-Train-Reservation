@@ -22,7 +22,7 @@ const Login = () => {
         <img
           src={train}
           alt="Login"
-          style={{ width: "70%", height: "80vh", objectFit: "cover" }}
+          style={{ width: "100%", height: "99vh", objectFit: "cover" }}
         />
       </Box>
 
